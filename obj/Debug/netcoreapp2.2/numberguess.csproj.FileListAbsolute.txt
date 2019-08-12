@@ -1,0 +1,11 @@
+C:\source\codeworks\numberguess\obj\Debug\netcoreapp2.2\numberguess.csprojAssemblyReference.cache
+C:\source\codeworks\numberguess\obj\Debug\netcoreapp2.2\numberguess.csproj.CoreCompileInputs.cache
+C:\source\codeworks\numberguess\obj\Debug\netcoreapp2.2\numberguess.AssemblyInfoInputs.cache
+C:\source\codeworks\numberguess\obj\Debug\netcoreapp2.2\numberguess.AssemblyInfo.cs
+C:\source\codeworks\numberguess\bin\Debug\netcoreapp2.2\numberguess.deps.json
+C:\source\codeworks\numberguess\bin\Debug\netcoreapp2.2\numberguess.runtimeconfig.json
+C:\source\codeworks\numberguess\bin\Debug\netcoreapp2.2\numberguess.runtimeconfig.dev.json
+C:\source\codeworks\numberguess\bin\Debug\netcoreapp2.2\numberguess.dll
+C:\source\codeworks\numberguess\bin\Debug\netcoreapp2.2\numberguess.pdb
+C:\source\codeworks\numberguess\obj\Debug\netcoreapp2.2\numberguess.dll
+C:\source\codeworks\numberguess\obj\Debug\netcoreapp2.2\numberguess.pdb
